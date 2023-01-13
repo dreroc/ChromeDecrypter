@@ -15,13 +15,13 @@ This tool is intended to be used in combination with the ``ChromePasswords`` scr
   4. Open the ChromeDecrypter.py file
   5. You are ready to go!
 ```
-
+Also please do not delete the ``var.txt`` file, it's used for passing variables between the scripts. Thanks.
 
 
 
 ## IMPORTANT!
 
-Please do not delete the ``var.txt`` file, it's used for passing variables between the scripts. Thanks.
+The creator of this code is not repsonsible for any damage caused by the user.
 
 
 ## Features
