@@ -13,7 +13,7 @@ This tool is intended to be used in combination with the ``ChromePasswords`` scr
   2. Extract the folder
   3. Install the requirements.txt file
   4. Open the ChromeDecrypter.py file
-  5. You're ready to go!
+  5. You are ready to go!
 ```
 
 
