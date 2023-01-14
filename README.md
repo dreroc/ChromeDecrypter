@@ -4,7 +4,10 @@ A small GUI that can be used to decrypt a Google Chrome login data file.
 This tool is intended to be used in combination with the ``ChromePasswords`` script found in my BadUsb repository.
 
 
+# Before you start!
 
+In order to begin, you ``must read and accept`` the usage agreement. **This project is for educational purposes only**! Please seek permission before running any of the scripts provided by me. I cannot be held responsible for any damage that may occur as a result of your use of these scripts.
+If you want to purchase a completely unique and personalized script contact me on discord.
 
 ## How to use?
 
